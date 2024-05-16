@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//Move all zeroes to end of array
+//Move all zeroes to end of  an array
 public class MoveZeroesToEnd {
 
     public static void moveZeroesToEnd(int[] arr) {
